@@ -8,9 +8,11 @@ I build and study intelligent systems, from research experiments to robotics sim
 
 ## Selected work
 
+[![Thekenyos simulation demo: Spot walking through a kiwi orchard](assets/thekenyos-demo.jpg)](assets/thekenyos-demo.mp4)
+
 | Project | Contribution | Explore |
 | --- | --- | --- |
-| [Thekenyos](https://github.com/EduardGilM/Thekenyos) | Team-built kiwi-harvesting simulation for a Spot quadruped. I focused on the reinforcement learning training structure and contributed across the simulation. | [Simulation and run instructions](https://github.com/EduardGilM/Thekenyos#demos-and-benches) |
+| [Thekenyos](https://github.com/EduardGilM/Thekenyos) | Team-built kiwi-harvesting simulation for a Spot quadruped. I focused on the reinforcement learning training structure and contributed across the simulation. | [Watch 15-second demo](assets/thekenyos-demo.mp4) · [Run instructions](https://github.com/EduardGilM/Thekenyos#demos-and-benches) |
 | [OIL-QDax](https://github.com/EduardGilM/OIL-QDax) | Extended QDax with O-Information and Lempel–Ziv behavior descriptors and experiments comparing quality-diversity algorithms. | [Animated previews](https://github.com/EduardGilM/OIL-QDax#-previews) |
 
 ## Research and experience
