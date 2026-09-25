@@ -8,7 +8,7 @@ I build and study intelligent systems, from research experiments to robotics sim
 
 ## Selected work
 
-[![Thekenyos simulation demo: Spot walking through a kiwi orchard](assets/thekenyos-demo.jpg)](assets/thekenyos-demo.mp4)
+[![Thekenyos simulation demo: Spot walking through a kiwi orchard](assets/thekenyos-demo.gif)](assets/thekenyos-demo.mp4)
 
 | Project | Contribution | Explore |
 | --- | --- | --- |
